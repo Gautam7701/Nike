@@ -104,7 +104,7 @@ const Hero = () => {
 
       <div className='flex-1 flex justify-center relative items-center xl: mr-20 xl:min-h-screen bg-primary bg-center bg-card max-xl:py-40 hover:bg-coral-red max-xl:ml-20'>
         <img
-          key={imgKey} src={bigShoeImg }alt="Selected Shoe" width={610} height={500}className='object-contain relative z-10 animate-rotateIn'
+          key={imgKey} src={bigShoeImg}alt="Selected Shoe" width={610} height={500}className='object-contain relative z-10 animate-rotateIn'
         />
         
         <div className='flex sm:gap-6 gap-4 absolute -bottom-[4%] sm:left-[10%] max-sm:px-6'>
